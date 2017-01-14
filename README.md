@@ -10,6 +10,7 @@ No install required or available at this point.
 
 Usage example
 -------------
+blaaaaaaaaaaaaaaaaaaaah
 
 To get some data for AAPL (Apple Inc.), you could enter the following command:
 
